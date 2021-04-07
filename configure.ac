@@ -1,4 +1,4 @@
-AC_INIT([e2openplugin-InfoBarTunerState],[3.3.0],[https://github.com/betonme/e2openplugin-InfoBarTunerState/issues])
+AC_INIT([e2openplugin-InfoBarTunerState],[4.0.3],[https://github.com/betonme/e2openplugin-InfoBarTunerState/issues])
 AM_INIT_AUTOMAKE([foreign])
 
 AC_PATH_PROG(MSGFMT, msgfmt, AC_MSG_ERROR(Could not find msgfmt))
